@@ -1,0 +1,2 @@
+# 2019.-Morning-Talk-Session
+We are here gathered, as qualified and certified nominees of the most DEPENDENT and the most BED-LINGERING to practice JAK-SIM-SAM-IL mechanism during the summer break. We spend every day of reading maximum a single paper and open up a 'morning talk session' to review how much we were not-understanding what we had thought it was just a piece of cake. This repository stores the mighty records of our show-window (to Professor Seo) deeds including paper lists, implmentation details, etc.
