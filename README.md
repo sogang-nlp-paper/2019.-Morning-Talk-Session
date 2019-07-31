@@ -10,3 +10,8 @@ We are here gathered, as qualified and certified nominees of the most DEPENDENT 
 * **Juae Kim present 10:01** - *Continued sharing ideas of the paper above + Rao is a girl crush presenter, big picture painter*
 * **Lino Hong present on time** - *Continued sharing ideas of the paper above*
 * **Bosung Kim present on 9:59** - *(Shao et al. 2019 ACL), Retrieving Sequential Information for Non-Autoregressive Neural Machine Translation*
+
+
+### 07.31 Wed, 10:30 - 10:45\
+* **Lino Hong present on time** - *(Lu et al. 2019 ACL), Constructing Interpretive Spatio-Temporal Features for Multi-Turn Responses Selection*
+* **Bosung Kim present on 10:30** - *(Liu et al. 2018 ICLR), Generating Wikipedia by Summarizing Long Sequences*
